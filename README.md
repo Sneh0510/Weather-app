@@ -28,9 +28,16 @@
 
 ## 🖼️ Demo Preview
 
-![Weather Wizard Screenshot](client/public/ss.png)
+<p align="center">
+  <img src="client/public/ss.png" alt="Weather Wizard Screenshot" width="600" />
+</p>
+
+<p align="center">
+  🔗 <a href="https://weather-app-nu-five-80.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</p>
 
 ---
+
 
 ## ⚙️ **Getting Started**
 
