@@ -90,13 +90,6 @@ npm run dev
 
 ---
 
-### 🛠️ Technologies Used
-Frontend: React, Vite, Tailwind CSS, Axios
-Backend: Node.js, Express
-API: OpenWeatherMap
-
----
-
 ### 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
